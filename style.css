@@ -1,0 +1,85 @@
+
+  .photo{
+    position : relative;
+  }
+  .long{
+    position : absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30%;
+    color : white;
+    display :inline;
+  }
+  .back{
+    height : 80%;
+    width:100%;
+  }
+  .space{
+    font-size: 1000%;
+    font-family: "Lobster";
+  }
+  .myi{
+    height: 30%;
+    width: 15%;
+    margin-left: 40%;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 0;
+  }
+  .pro{
+    float: right;
+    padding: 10px;
+    height: 250px;
+    width: 420px;
+    margin-left: 10px;
+    margin-top: 250px;
+
+  }
+  .table{
+    float: left;
+    padding-left: 15%;
+    top
+
+  }
+  table tr td{
+    padding: 30px;
+  }
+  body{
+    background-color: black;
+    color: white;
+    height: 80%;
+  }
+  .nav{
+    margin-bottom: 10px;
+  }
+  footer{
+    width: 350%;
+    position: center;
+    background-color:gray;
+  }
+  .about{
+    padding: 15%;
+  }
+  .left{
+    float:left;
+    padding-left: 10%;
+    color: 190, 206, 237;
+  }
+  footer{
+    background: gray;
+  }
+  .nav{
+    height: 160%;
+    padding: 20%;
+
+
+  }
+  ul{
+    background-color: 190, 206, 237;
+    list-style-type: none;
+  }
+  .center{
+    margin-left: 50%;
+    text-align: center;
+  }
